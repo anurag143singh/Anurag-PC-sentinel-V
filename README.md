@@ -6,7 +6,7 @@
 
 Click below to download the latest Windows version:
 
-[Download Anurag PC Sentinel VX for Windows](https://github.com/anurag143singh/Anurag-PC-sentinel-V/releases/latest/download/Anurag-PC-Sentinel-VX.exe)
+[Download Anurag PC Sentinel VX Installer for Windows](https://github.com/anurag143singh/Anurag-PC-sentinel-V/releases/latest/download/Anurag-PC-Sentinel-VX-Setup-v1.0.1.exe)
 
 ## Features
 
